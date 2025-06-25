@@ -1,0 +1,6 @@
+C:\Users\student\Documents\alimpyeva(1)\Project6\Project6\x64\Debug\Project6.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\alimpyeva(1)\Project6\Project6\x64\Debug\Project6.MyForm.resources
+C:\Users\student\Documents\alimpyeva(1)\Project6\Project6\x64\Debug\Project6.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\aro\клава мышь\Project6\x64\Debug\Project6.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\aro\клава мышь\Project6\x64\Debug\Project6.MyForm.resources
+C:\Users\student\Documents\aro\клава мышь\Project6\x64\Debug\Project6.vcxproj.GenerateResource.cache
