@@ -1,0 +1,6 @@
+C:\Users\student\Documents\205\lalala7\PPP\x64\Debug\PPP.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\205\lalala7\PPP\x64\Debug\PPP.MyForm.resources
+C:\Users\student\Documents\205\lalala7\PPP\x64\Debug\PPP.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\aro\текст редактор\PPP\x64\Debug\PPP.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\aro\текст редактор\PPP\x64\Debug\PPP.MyForm.resources
+C:\Users\student\Documents\aro\текст редактор\PPP\x64\Debug\PPP.vcxproj.GenerateResource.cache
